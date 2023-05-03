@@ -147,6 +147,7 @@ a.link-to-book:hover {
 
     .section-intro {
         height: 500px;
+        background-image: url(img/fondomobile.png);
     }
 
     .about-section p,
