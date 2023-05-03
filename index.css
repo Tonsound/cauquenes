@@ -168,6 +168,7 @@ a.link-to-book:hover {
 @media screen and (max-width: 576px) {
     .section-intro {
         height: 300px;
+        background-image: url(img/fondomobile.png);
     }
 
     .about-section {
